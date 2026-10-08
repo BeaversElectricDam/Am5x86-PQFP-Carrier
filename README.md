@@ -1,5 +1,5 @@
 # Am5x86 PQFP Carrier
-This repository is for my Am5x86 PQFP Carrier PCB.
+This repository is for my Am5x86 PQFP Carrier PCB..
 
 ### The PCB
 For the PCB see my PCBWay Shared Projects page:\
